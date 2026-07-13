@@ -1,17 +1,19 @@
 # Ankit DevOS
 
-A modern Hyprland desktop environment built for developers.
+A modern Arch Linux desktop environment built on Hyprland.
 
-Features:
-- Modern Waybar
-- Beautiful Walker
-- Java Developer Dashboard
-- Git Integration
-- Docker Widgets
-- Spring Boot Widgets
-- AI Assistant
-- Wallpapers
-- Dynamic Themes
+## Features
+
+- Hyprland
+- Waybar
+- Rofi
+- Kitty
+- SwayNC
+- Java Development Environment
+- Docker
+- PostgreSQL
+- Dynamic Wallpapers
+- Matugen Themes
 
 Author:
 Ankit Kumar
